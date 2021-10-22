@@ -10,9 +10,11 @@ rayon représentant la valeur du rayon (défini dans le code par la variable ray
 
 Récupérez la valeur du volume de la sphère dans la variable `volume`.
 
-<hr>
+<br>
 
 ***Aide***: Vous avez besoin de la valeur de la constante Pi, que vous pouvez obtenir grâce au module math.
+
+<hr>
 <br>
 *EXO2*:
 <br>
