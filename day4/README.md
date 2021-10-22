@@ -16,7 +16,9 @@ Récupérez la valeur du volume de la sphère dans la variable `volume`.
 
 <hr>
 <br>
+
 *EXO2*:
+
 <br>
 Dans cet exercice, nous allons utiliser une structure conditionnelle pour vérifier si a est plus grand ou non que *10*.
 
