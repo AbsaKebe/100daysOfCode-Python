@@ -16,3 +16,21 @@ Votre script devra donc par exemple retourner les lancer suivants : <br>
 ***AIDE*** : 
 <br>
 Pour tout ce qui touche aux nombres aléatoires, le module random est votre ami !
+
+<hr>
+<br>
+
+**EXO2** : Nombre d'occurence d'une lettre dans une phrase
+<br>
+Dans cet exercice, nous cherchons à compter le nombre d'occurrences d'une lettre dans une chaîne de caractère.
+
+Essayons de trouver alors le nombre de `"h"`dans le vers suivant:
+> Wa bikalîmika moussâ sâlihine khadirine 
+
+>wa bi chouhaybine wa ismâhîla yallâhou
+
+Le script devra retourner dans une variable **resultat** le nombre d'occurences de la lettre qui est **4**.
+
+<br>
+
+***AIDE***  : Pour compter le nombre d'occurrences d'une lettre dans une phrase, vous pouvez utiliser la fonction *count*.
