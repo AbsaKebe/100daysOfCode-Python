@@ -29,7 +29,7 @@ Essayons de trouver alors le nombre de `"h"`dans le vers suivant:
 
 >wa bi chouhaybine wa ismâhîla yallâhou
 
-Le script devra retourner dans une variable **resultat** le nombre d'occurences de la lettre qui est **4**.
+Le script devra retourner dans une variable **resultat** le nombre d'occurences de la lettre qui est **6**.
 
 <br>
 
