@@ -12,3 +12,8 @@ Affichez le de cette façon :  <br>
 
 **EXO2** : <br>
 Créer une fonction qui permettra de calculer la table de multiplication de n'importe quel nombre. Appelez le dans l'exercice précèdente pour le tester.
+
+<hr>
+
+**EXO3**: <br>
+Créer une fonction qui permet de faire la division par 2 des nombres pairs d'une liste donnée en argument.
