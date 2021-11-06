@@ -11,7 +11,7 @@ volvo 2 <br>
 
 
 
-**EXO2** : Trouvez la voiture à prix Higesht de chaque entreprise <br>
+**EXO2** : Trouvez la voiture la plus chère de chaque entreprise <br>
 Résultat attendu : <br>
 | company   | company       | price   |
 |----|---------------|---------|
